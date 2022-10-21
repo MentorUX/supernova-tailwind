@@ -1,0 +1,13 @@
+
+:root {
+    --shadow-shadow-theme-100: 0px 16px 24px 0px #0d0d0de5; 
+    --shadow-shadow-theme-100-2: 0px 0px 1px 0px #0d0d0d; 
+    --shadow-shadow-theme-80: 0px 8px 16px 0px #0d0d0de5; 
+    --shadow-shadow-theme-80-2: 0px 0px 1px 0px #0d0d0d; 
+    --shadow-shadow-theme-60: 0px 4px 8px 0px #0d0d0de5; 
+    --shadow-shadow-theme-60-2: 0px 0px 1px 0px #0d0d0d; 
+    --shadow-shadow-theme-40: 0px 2px 4px 0px #0d0d0de5; 
+    --shadow-shadow-theme-40-2: 0px 0px 1px 0px #0d0d0d; 
+    --shadow-shadow-theme-20: 0px 1px 3px 0px #0d0d0de5; 
+    --shadow-shadow-theme-20-2: 0px 0px 1px 0px #0d0d0d; 
+}

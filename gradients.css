@@ -1,0 +1,315 @@
+
+:root {
+    --gradient-gradient-warm-flame-left-to-right: linear-gradient(
+          180deg,
+          #ff9a9e 0%,   
+          #fad0c4 100%  
+        )
+        ;     
+    --gradient-gradient-warm-flame-top-to-bottom: linear-gradient(
+          270deg,
+          #ff9a9e 0%,   
+          #fad0c4 100%  
+        )
+        ;     
+    --gradient-gradient-night-fade-left-to-right: linear-gradient(
+          180deg,
+          #a18cd1 0%,   
+          #fbc2eb 100%  
+        )
+        ;     
+    --gradient-gradient-night-fade-top-to-bottom: linear-gradient(
+          270deg,
+          #a18cd1 0%,   
+          #fbc2eb 100%  
+        )
+        ;     
+    --gradient-gradient-juicy-peach-left-to-right: linear-gradient(
+          0deg,
+          #ffecd2 0%,   
+          #fcb69f 100%  
+        )
+        ;     
+    --gradient-gradient-juicy-peach-top-to-bottom: linear-gradient(
+          90deg,
+          #ffecd2 0%,   
+          #fcb69f 100%  
+        )
+        ;     
+    --gradient-gradient-sunny-morning-left-to-right: linear-gradient(
+          0deg,
+          #f7ce68 0%,   
+          #fbab7e 100%  
+        )
+        ;     
+    --gradient-gradient-sunny-morning-top-to-bottom: linear-gradient(
+          90deg,
+          #f7ce68 0%,   
+          #fbab7e 100%  
+        )
+        ;     
+    --gradient-gradient-winter-neva-left-to-right: linear-gradient(
+          180deg,
+          #a1c4fd 0%,   
+          #c2e9fb 100%  
+        )
+        ;     
+    --gradient-gradient-winter-neva-top-to-bottom: linear-gradient(
+          270deg,
+          #a1c4fd 0%,   
+          #c2e9fb 100%  
+        )
+        ;     
+    --gradient-gradient-loupe-fiesta-left-to-right: linear-gradient(
+          180deg,
+          #105efb 0%,   
+          #199afb 100%  
+        )
+        ;     
+    --gradient-gradient-loupe-fiesta-top-to-bottom: linear-gradient(
+          270deg,
+          #105efb 0%,   
+          #199afb 100%  
+        )
+        ;     
+    --gradient-gradient-soft-grass-left-to-right: linear-gradient(
+          0deg,
+          #deecdd 0%,   
+          #c1dfc4 100%  
+        )
+        ;     
+    --gradient-gradient-soft-grass-top-to-bottom: linear-gradient(
+          90deg,
+          #deecdd 0%,   
+          #c1dfc4 100%  
+        )
+        ;     
+    --gradient-gradient-ripe-malinka-left-to-right: linear-gradient(
+          0deg,
+          #f093fb 0%,   
+          #f5576c 100%  
+        )
+        ;     
+    --gradient-gradient-ripe-malinka-top-to-bottom: linear-gradient(
+          90deg,
+          #f093fb 0%,   
+          #f5576c 100%  
+        )
+        ;     
+    --gradient-gradient-new-york-left-to-right: linear-gradient(
+          180deg,
+          #ace0f9 0%,   
+          #fff1eb 100%  
+        )
+        ;     
+    --gradient-gradient-new-york-top-to-bottom: linear-gradient(
+          270deg,
+          #ace0f9 0%,   
+          #fff1eb 100%  
+        )
+        ;     
+    --gradient-gradient-plum-plate-left-to-right: linear-gradient(
+          0deg,
+          #667eea 0%,   
+          #764ba2 100%  
+        )
+        ;     
+    --gradient-gradient-plum-plate-top-to-bottom: linear-gradient(
+          90deg,
+          #667eea 0%,   
+          #764ba2 100%  
+        )
+        ;     
+    --gradient-gradient-light-mist-left-to-right: linear-gradient(
+          180deg,
+          #e8e8e8 0%,   
+          #ffffff 100%  
+        )
+        ;     
+    --gradient-gradient-light-mist-top-to-bottom: linear-gradient(
+          270deg,
+          #e8e8e8 0%,   
+          #ffffff 100%  
+        )
+        ;     
+    --gradient-gradient-miami-shore-left-to-right: linear-gradient(
+          180deg,
+          #5d45f9 0%,   
+          #267deb 100%  
+        )
+        ;     
+    --gradient-gradient-miami-shore-top-to-bottom: linear-gradient(
+          270deg,
+          #5d45f9 0%,   
+          #267deb 100%  
+        )
+        ;     
+    --gradient-gradient-vanusa-left-to-right: linear-gradient(
+          180deg,
+          #89216b 0%,   
+          #da4453 100%  
+        )
+        ;     
+    --gradient-gradient-vanusa-top-to-bottom: linear-gradient(
+          270deg,
+          #89216b 0%,   
+          #da4453 100%  
+        )
+        ;     
+    --gradient-gradient-ocean-view-left-to-right: linear-gradient(
+          180deg,
+          #3f2b96 0%,   
+          #a8c0ff 100%  
+        )
+        ;     
+    --gradient-gradient-ocean-view-top-to-bottom: linear-gradient(
+          270deg,
+          #3f2b96 0%,   
+          #a8c0ff 100%  
+        )
+        ;     
+    --gradient-gradient-sandy-bleue-left-to-right: linear-gradient(
+          180deg,
+          #ffe8b7 0%,   
+          #b8d8ff 100%  
+        )
+        ;     
+    --gradient-gradient-sandy-bleue-top-to-bottom: linear-gradient(
+          270deg,
+          #ffe8b7 0%,   
+          #b8d8ff 100%  
+        )
+        ;     
+    --gradient-gradient-quepal-left-to-right: linear-gradient(
+          180deg,
+          #38ef7d 0%,   
+          #11998e 100%  
+        )
+        ;     
+    --gradient-gradient-quepal-top-to-bottom: linear-gradient(
+          270deg,
+          #38ef7d 0%,   
+          #11998e 100%  
+        )
+        ;     
+    --gradient-gradient-sublime-light-left-to-right: linear-gradient(
+          180deg,
+          #6a82fb 0%,   
+          #fc5c7d 100%  
+        )
+        ;     
+    --gradient-gradient-sublime-light-top-to-bottom: linear-gradient(
+          270deg,
+          #6a82fb 0%,   
+          #fc5c7d 100%  
+        )
+        ;     
+    --gradient-gradient-lawrencium-left-to-right: linear-gradient(
+          180deg,
+          #24243e 0%,   
+          #0f0c29 100%  
+        )
+        ;     
+    --gradient-gradient-lawrencium-top-to-bottom: linear-gradient(
+          270deg,
+          #24243e 0%,   
+          #0f0c29 100%  
+        )
+        ;     
+    --gradient-gradient-happy-people-left-to-right: linear-gradient(
+          180deg,
+          #96c93d 0%,   
+          #00b09b 100%  
+        )
+        ;     
+    --gradient-gradient-happy-people-top-to-bottom: linear-gradient(
+          270deg,
+          #96c93d 0%,   
+          #00b09b 100%  
+        )
+        ;     
+    --gradient-gradient-delicate-left-to-right: linear-gradient(
+          180deg,
+          #d3cce3 0%,   
+          #e9e4f0 100%  
+        )
+        ;     
+    --gradient-gradient-delicate-top-to-bottom: linear-gradient(
+          270deg,
+          #d3cce3 0%,   
+          #e9e4f0 100%  
+        )
+        ;     
+    --gradient-gradient-orange-fun-left-to-right: linear-gradient(
+          180deg,
+          #fc4a1a 0%,   
+          #f7b733 100%  
+        )
+        ;     
+    --gradient-gradient-orange-fun-top-to-bottom: linear-gradient(
+          270deg,
+          #fc4a1a 0%,   
+          #f7b733 100%  
+        )
+        ;     
+    --gradient-gradient-purpink-left-to-right: linear-gradient(
+          180deg,
+          #7f00ff 0%,   
+          #e100ff 100%  
+        )
+        ;     
+    --gradient-gradient-purpink-top-to-bottom: linear-gradient(
+          270deg,
+          #7f00ff 0%,   
+          #e100ff 100%  
+        )
+        ;     
+    --gradient-gradient-dull-days-left-to-right: linear-gradient(
+          180deg,
+          #c9d6ff 0%,   
+          #e2e2e2 100%  
+        )
+        ;     
+    --gradient-gradient-dull-days-top-to-bottom: linear-gradient(
+          270deg,
+          #c9d6ff 0%,   
+          #e2e2e2 100%  
+        )
+        ;     
+    --gradient-gradient-scooter-left-to-right: linear-gradient(
+          180deg,
+          #5b86e5 0%,   
+          #36d1dc 100%  
+        )
+        ;     
+    --gradient-gradient-scooter-top-to-bottom: linear-gradient(
+          270deg,
+          #5b86e5 0%,   
+          #36d1dc 100%  
+        )
+        ;     
+    --gradient-gradient-overlay-dark-bottom-shade: linear-gradient(
+          90deg,
+          #30303000 0%,   
+          #303030d9 100%  
+        )
+        ;     
+    --gradient-gradient-overlay-dark-top-shade: linear-gradient(
+          180deg,
+          #303030d9 0%,   
+          #30303000 100%  
+        )
+        ;     
+    --gradient-gradient-overlay-light-bottom-shade: linear-gradient(
+          90deg,
+          #ffffff00 0%,   
+          #ffffffd9 100%  
+        )
+        ;     
+    --gradient-gradient-overlay-light-top-shade: linear-gradient(
+          180deg,
+          #ffffffd9 0%,   
+          #ffffff00 100%  
+        )
+        ;     
+}
